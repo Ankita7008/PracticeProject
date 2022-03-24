@@ -8,4 +8,9 @@ public class PracticeOrgTest {
 	public void practiceOrg() {
 		System.out.println("lead created in practice project");
 	}
+	
+	@Test
+	public void practiceOrgUpdate() {
+		System.out.println("lead updated in practice project");
+	}
 }
